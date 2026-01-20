@@ -1,7 +1,7 @@
 # CEU Data Engineering 2 - Modern Data Platforms - Assignment - Week 1
 
 ## Fork this repo
-1) Please fork this repo as a **private repository**. Don't worry about any changes you made to your work on Monday; I updated the `airbnb` folder of this repository so it exactly reflects how far we've gone
+1) Please fork **this repo** as a **private repository**. Don't worry about any changes you made to your work on Monday; I updated the `airbnb` folder of this repository so it exactly reflects how far we've gone
 2) Clone it to your local machine (not by downloading the zip but with the git command using the https/ssh link from github)
 
 ### Invite collaborators (GitHub web UI)
